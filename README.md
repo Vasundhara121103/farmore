@@ -23,7 +23,7 @@
 ### Installation Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/Adityrwt/Farmore.git
+git clone https://github.com/Vasundhara121103/farmore.git
 cd Farmore
 ```
 2. Create a virtual environment:
